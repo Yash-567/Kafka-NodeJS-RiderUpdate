@@ -1,6 +1,8 @@
 # Kafka Node.js Consumer & Producer
 
 This repository contains a simple Node.js application demonstrating Kafka consumer and producer functionality using the `kafkajs` library.
+![image](https://github.com/user-attachments/assets/8f1ec4c2-5963-4170-88c1-0929226257da)
+
 
 ## Overview
 
